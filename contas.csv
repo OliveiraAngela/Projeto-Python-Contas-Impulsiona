@@ -1,0 +1,5 @@
+tipo,descricao,valor,data_vencimento,data_recebimento,categoria,status,prioridade,comentarios
+débito,Conta de Luz,120.50,15/12/2024,,moradia,pendente,alta,Pago em atraso.
+crédito,Salário,4000.00,10/12/2024,10/12/2024,salário,recebido,alta,Recebido no prazo.
+débito,Supermercado,300.75,05/12/2024,,alimentação,pendente,média,Compra semanal.
+débito,Academia,300.00,20/12/2024,,lazer,pendente,baixa,Pagamento mensal.
